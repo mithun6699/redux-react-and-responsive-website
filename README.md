@@ -1,5 +1,4 @@
-# Starter Kit for [Building Applications in React and Redux](http://www.pluralsight.com/author/cory-house) on Pluralsight
-
+Application developed to add lis tof items
 This app uses React, Redux, React Router, and many other helpful libraries
 created Actions, reducers ,configured store and connected componenets to redux store
 
